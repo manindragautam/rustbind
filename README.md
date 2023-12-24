@@ -28,6 +28,7 @@ Things you may want to cover:
 - [https://github.com/matsadler/magnus](https://github.com/matsadler/magnus)
 - [https://oxidize-rb.github.io/rb-sys/getting-started.html](https://oxidize-rb.github.io/rb-sys/getting-started.html)
 - [https://bundler.io/blog/2023/01/31/rust-gem-skeleton.html](https://bundler.io/blog/2023/01/31/rust-gem-skeleton.html)
+- [https://guides.rubygems.org/rubygems-basics/](https://guides.rubygems.org/rubygems-basics/)
 
 ## TODO:
 - [ ] RUST GEM:
