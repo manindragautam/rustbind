@@ -28,3 +28,10 @@ Things you may want to cover:
 - [https://github.com/matsadler/magnus](https://github.com/matsadler/magnus)
 - [https://oxidize-rb.github.io/rb-sys/getting-started.html](https://oxidize-rb.github.io/rb-sys/getting-started.html)
 - [https://bundler.io/blog/2023/01/31/rust-gem-skeleton.html](https://bundler.io/blog/2023/01/31/rust-gem-skeleton.html)
+
+## TODO:
+- [ ] RUST GEM:
+    - [ ] `bundle gem --ext=rust first_rust_gem`
+    - [ ] compile and add gem in local system
+    - [ ] link gem from local system into project
+    - [ ] run rails server and verify if it's working
