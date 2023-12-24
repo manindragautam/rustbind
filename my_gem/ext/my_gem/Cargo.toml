@@ -1,0 +1,12 @@
+[package]
+name = "my_gem"
+version = "0.1.0"
+edition = "2021"
+authors = ["Manindra Gautam <manindra.gautam@infobeans.com>"]
+publish = false
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+magnus = { version = "0.6.2" }
