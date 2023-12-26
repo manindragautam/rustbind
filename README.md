@@ -32,7 +32,8 @@ Things you may want to cover:
 
 ## TODO:
 - [ ] RUST GEM:
-    - [ ] `bundle gem --ext=rust first_rust_gem`
-    - [ ] compile and add gem in local system
-    - [ ] link gem from local system into project
-    - [ ] run rails server and verify if it's working
+    - [x] `bundle gem --ext=rust first_rust_gem`
+    - [x] compile and add gem in local system
+    - [x] link gem from local system into project
+    - [x] run rails server and verify if it's working
+    - [ ] make a private repository for gem and access it using bundler config
