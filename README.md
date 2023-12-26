@@ -31,9 +31,9 @@ Things you may want to cover:
 - [https://guides.rubygems.org/rubygems-basics/](https://guides.rubygems.org/rubygems-basics/)
 
 ## TODO:
-- [ ] RUST GEM:
+- [x] RUST GEM:
     - [x] `bundle gem --ext=rust first_rust_gem`
     - [x] compile and add gem in local system
     - [x] link gem from local system into project
     - [x] run rails server and verify if it's working
-    - [ ] make a private repository for gem and access it using bundler config
+    - [x] make a private repository for gem and access it using bundler config
