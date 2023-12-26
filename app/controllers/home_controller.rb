@@ -10,4 +10,11 @@ class HomeController < ApplicationController
     @result = rs_addition(15, 20)
     render :template => "home/index"
   end
+
+  def magnus_remote_index
+    p = Point.new(5, 10)
+    q = Point.new(10, 20)
+    @result = p.distance(q)
+    render :template => "home/index"
+  end
 end
